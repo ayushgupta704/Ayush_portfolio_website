@@ -1,1 +1,1 @@
-# Ayush_portfolio_website
+# AYUSH Portfolio Website
